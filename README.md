@@ -4,11 +4,11 @@ MyFontAwesomeIcons (Font Awesome 5)
 
 Lets you implement custom Font-Awesome icons for your forums.
 
-Created by @Ethan DeLong & @Vintagedaddyo
+Created by @github/0xB9Ethan DeLong & @github/Vintagedaddyo
 
 This is a highly modified version of the plugin: MyForumIcons - Custom Forum Icons by Ethan DeLong
 
-Specifically modified by @Vintagedaddyo for Font-Awesome implementation after several user requests for something of the sort.
+Specifically modified by @github/Vintagedaddyo for Font-Awesome implementation after several user requests for something of the sort.
 
 
 This will allow you to add custom Font-Awesome icons for your forums.
