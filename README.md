@@ -1,7 +1,5 @@
 # My FontAwesome Icons
 
-My FontAwesome Icons
-
 Lets you implement custom Font-Awesome icons for your forums.
 
 Created by 0xB9Ethan DeLong & Vintagedaddyo
@@ -18,12 +16,8 @@ You can specify a css name to your forum's custom font-awesome icon by going to 
 
 localization support:
 
--english 
-
--englishgb
-
--espanol
-
--french
-
--italiano
+- english 
+- englishgb
+- espanol
+- french
+- italiano
